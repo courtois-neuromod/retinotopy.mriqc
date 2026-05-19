@@ -2,3 +2,7 @@
 	path = containers
 	url = https://github.com/ReproNim/containers.git
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+[submodule "sourcedata/retinotopy"]
+	path = sourcedata/retinotopy
+	url = git@github.com:courtois-neuromod/retinotopy.git
+	datalad-id = df96e39c-55e0-4862-a5c4-66145afcff6a
