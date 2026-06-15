@@ -1,0 +1,1 @@
+4a0aeac0-6d99-4d90-a4fc-6b8dccf79602 autoenable=true bucket=cneuromod.retinotopy.mriqc chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.retinotopy.mriqc port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1781544112s
